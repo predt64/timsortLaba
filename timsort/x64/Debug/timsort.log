@@ -1,0 +1,4 @@
+﻿  timsort.cpp
+C:\Users\Redmi\source\repos\timsort\timsort\timsort.cpp(472,9): warning C4101: input: неиспользованная локальная переменная
+C:\Users\Redmi\source\repos\timsort\timsort\timsort.cpp(225): warning C4715: List::operator[]: значение возвращается не при всех путях выполнения
+  timsort.vcxproj -> C:\Users\Redmi\source\repos\timsort\x64\Debug\timsort.exe
